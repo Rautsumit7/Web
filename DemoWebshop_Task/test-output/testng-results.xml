@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10680" started-at="2021-08-04T18:50:27 IST" finished-at="2021-08-04T18:50:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10680" started-at="2021-08-04T18:50:27 IST" finished-at="2021-08-04T18:50:38 IST">
+      <class name="Task.Webshop">
+        <test-method status="PASS" signature="browser()[pri:0, instance:Task.Webshop@69b0fd6f]" name="browser" is-config="true" duration-ms="7481" started-at="2021-08-04T18:50:20 IST" finished-at="2021-08-04T18:50:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="before()[pri:0, instance:Task.Webshop@69b0fd6f]" name="before" is-config="true" duration-ms="4304" started-at="2021-08-04T18:50:27 IST" finished-at="2021-08-04T18:50:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="maximizebrowser()[pri:0, instance:Task.Webshop@69b0fd6f]" name="maximizebrowser" is-config="true" duration-ms="214" started-at="2021-08-04T18:50:31 IST" finished-at="2021-08-04T18:50:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizebrowser -->
+        <test-method status="PASS" signature="url()[pri:0, instance:Task.Webshop@69b0fd6f]" name="url" is-config="true" duration-ms="1" started-at="2021-08-04T18:50:32 IST" finished-at="2021-08-04T18:50:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="RegisterWebshop()[pri:0, instance:Task.Webshop@69b0fd6f]" name="RegisterWebshop" duration-ms="4896" started-at="2021-08-04T18:50:32 IST" finished-at="2021-08-04T18:50:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterWebshop -->
+        <test-method status="PASS" signature="capturescreenshot()[pri:0, instance:Task.Webshop@69b0fd6f]" name="capturescreenshot" is-config="true" duration-ms="1073" started-at="2021-08-04T18:50:37 IST" finished-at="2021-08-04T18:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capturescreenshot -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:Task.Webshop@69b0fd6f]" name="AfterClass" is-config="true" duration-ms="1" started-at="2021-08-04T18:50:38 IST" finished-at="2021-08-04T18:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="conclose()[pri:0, instance:Task.Webshop@69b0fd6f]" name="conclose" is-config="true" duration-ms="1" started-at="2021-08-04T18:50:38 IST" finished-at="2021-08-04T18:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conclose -->
+        <test-method status="PASS" signature="closedriver()[pri:0, instance:Task.Webshop@69b0fd6f]" name="closedriver" is-config="true" duration-ms="1180" started-at="2021-08-04T18:50:38 IST" finished-at="2021-08-04T18:50:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- Task.Webshop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
